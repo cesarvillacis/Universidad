@@ -1,0 +1,18 @@
+# Ignorar entornos virtuales
+.venv/
+venv/
+env/
+
+# Ignorar archivos específicos de Python
+*.pyc
+__pycache__/
+
+# Ignorar otros archivos comunes de Python que no son del entorno
+.Python
+pip-log.log
+pip-delete-this-directory.log
+
+# Ignorar archivos de paquetes y metadatos
+*.egg-info/
+.coverage
+.pytest_cache/
