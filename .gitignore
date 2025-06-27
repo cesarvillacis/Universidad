@@ -17,8 +17,6 @@ pip-delete-this-directory.log
 .coverage
 .pytest_cache/
 
-# Archivo concretos
-MatrizTF.csv
-MatrizTFIDF.csv
+
 
 Archivos/
